@@ -1020,11 +1020,11 @@ translation=Accès anticipé aux versions bêta
 
 [pages.pricing.faq_a_catalyst]
 original=By becoming a <a href="https://help.obsidian.md/Licenses+and+payment/Catalyst+license" target="_blank" class="text-accent font-medium">Catalyst member</a>, you'll receive early access to beta versions of Obsidian, as well as special badges within the community. Catalyst plays a vital role in helping Obsidian remain 100% user-supported, free from investor influence that could compromise <a href="%LOCALE_PATH%/about" class="text-accent font-medium">our&nbsp;values</a>.
-translation=En devenant <a href="https://help.obsidian.md/Licenses+and+payment/Catalyst+license" target="_blank" class="text-accent font-medium">membre Catalyst</a>, vous bénéficierez d'un accès anticipé aux versions bêta d'Obsidian, ainsi que de badges spéciaux au sein de la communauté. Catalyst joue un rôle essentiel pour maintenir Obsidian 100 % soutenu par ses utilisateurs, libre de toute influence d'investisseurs qui pourrait compromettre <a href="%LOCALE_PATH%/about" class="text-accent font-medium">nos&nbsp;valeurs</a>.
+translation=En devenant <a href="https://help.obsidian.md/Licenses+and+payment/Catalyst+license" target="_blank" class="text-accent font-medium">membre Catalyst</a>, vous bénéficierez d'un accès anticipé aux versions bêta d'Obsidian, ainsi que de badges spéciaux au sein de la communauté. Catalyst joue un rôle essentiel pour qu'Obsidian reste 100% soutenu par ses utilisateurs, libre de toute influence d'investisseurs qui pourrait compromettre <a href="%LOCALE_PATH%/about" class="text-accent font-medium">nos&nbsp;valeurs</a>.
 
 [pages.pricing.faq_a_commercial]
 original=No. You are not <em>required</em> to pay for a commercial license, however if you are using Obsidian for work in an organization we encourage you to purchase a commercial license to keep Obsidian independent and 100% user-supported. <a href="/enterprise" class="text-accent font-medium">Learn&nbsp;more.</a>
-translation=Non. Vous n'êtes pas <em>obligé</em> d'acheter une licence commerciale, mais si vous utilisez Obsidian au travail dans une organisation, nous vous encourageons à en acheter une pour maintenir Obsidian indépendant et 100 % soutenu par ses utilisateurs. <a href="/enterprise" class="text-accent font-medium">En savoir&nbsp;plus.</a>
+translation=Non. Vous n'êtes pas <em>obligé</em> d'acheter une licence commerciale, mais si vous utilisez Obsidian au travail dans une organisation, nous vous encourageons à en acheter une pour maintenir Obsidian indépendant et 100% soutenu par ses utilisateurs. <a href="/enterprise" class="text-accent font-medium">En savoir&nbsp;plus.</a>
 
 [pages.pricing.faq_a_data_1]
 original=Obsidian is a private and secure space for your thoughts. You can use our apps without sharing any personal information, and your data is stored locally on your device, making it inaccessible to us. Additionally, our apps do not collect telemetry data, and we never sell user data.
@@ -1044,7 +1044,7 @@ translation=Oui ! Vous pouvez acheter du crédit Obsidian pour vos amis, votre f
 
 [pages.pricing.faq_a_refund]
 original=We offer full refunds within 7 days of purchase with no questions asked for Obsidian Sync and Publish. However, please note that Catalyst licenses, Commercial licenses, and Obsidian Credit are non-refundable. <a href="https://help.obsidian.md/Licenses+and+payment/Refund+policy" target="_blank" class="text-accent font-medium">Learn&nbsp;more.</a>
-translation=Nous offrons un remboursement intégral dans les 7 jours suivant l'achat, sans aucune question, pour Obsidian Sync et Publish. Cependant, les licences Catalyst, les licences commerciales et le crédit Obsidian ne sont pas remboursables. <a href="https://help.obsidian.md/Licenses+and+payment/Refund+policy" target="_blank" class="text-accent font-medium">En savoir&nbsp;plus.</a>
+translation=Nous offrons un remboursement intégral dans les 7 jours suivant l'achat, sans aucune question, et ceci pour Obsidian Sync et Publish. Toutefois, les licences Catalyst, les licences commerciales et le crédit Obsidian ne sont pas remboursables. <a href="https://help.obsidian.md/Licenses+and+payment/Refund+policy" target="_blank" class="text-accent font-medium">En savoir&nbsp;plus.</a>
 
 [pages.pricing.faq_desc]
 original=Frequently asked questions about pricing
@@ -1088,7 +1088,7 @@ translation=Gratuit sans limites.
 
 [pages.pricing.meta_desc]
 original=Obsidian is free and 100% user-supported.
-translation=Obsidian est gratuit et 100 % soutenu par ses utilisateurs.
+translation=Obsidian est gratuit et 100% soutenu par ses utilisateurs.
 
 [pages.pricing.more_questions_desc]
 original=More questions? Visit our <a href="https://help.obsidian.md" target="_blank" class="text-accent font-medium">Help&nbsp;site<i data-lucide="chevron-right" class="icon-lg"></i></a>
@@ -1124,7 +1124,7 @@ translation=Synchroniser les notes entre appareils
 
 [pages.pricing.user_supported]
 original=100% user-supported.
-translation=100 % soutenu par ses utilisateurs.
+translation=100% soutenu par ses utilisateurs.
 
 [pages.pricing.user_supported_desc]
 original=Optional licenses help support the independent development of Obsidian.
@@ -1244,7 +1244,7 @@ translation=Sûr et sécurisé
 
 [pages.sync.selective_sync_desc]
 original=<strong class="font-semibold text-normal">Selective sync.</strong> Images, audio, video and PDFs can all be toggled to reduce data transfer.
-translation=<strong class="font-semibold text-normal">Synchronisation sélective.</strong> Les images, fichiers audio, vidéos et PDF peuvent être activés ou désactivés pour réduire le transfert de données.
+translation=<strong class="font-semibold text-normal">Synchronisation sélective.</strong> Les images, fichiers audio, vidéos et PDF peuvent être inclus ou exclus pour réduire la taille des transferts de données.
 
 [pages.sync.standard]
 original=Sync&nbsp;Standard
@@ -1284,7 +1284,7 @@ translation=Accessible par défaut
 
 [pages.publish.accessible_desc]
 original=Out of the box, Obsidian Publish has a perfect 100% Lighthouse accessibility score. It's our priority to make your content accessible for all&nbsp;visitors.
-translation=Dès l'installation, Obsidian Publish obtient un score d'accessibilité Lighthouse parfait de 100 %. C'est notre priorité de rendre votre contenu accessible à tous les&nbsp;visiteurs.
+translation=Dès l'installation, Obsidian Publish obtient un score d'accessibilité Lighthouse parfait de 100%. C'est notre priorité de rendre votre contenu accessible à tous les&nbsp;visiteurs.
 
 [pages.publish.analytics]
 original=Analytics are optional
@@ -1820,7 +1820,7 @@ translation=Indépendant
 
 [pages.about.independent_desc]
 original=We believe in staying true to these principles. That's why we are 100% supported by our users, not&nbsp;investors.
-translation=Nous croyons qu'il faut rester fidèle à ces principes. C'est pourquoi nous sommes 100 % soutenus par nos utilisateurs, pas par des&nbsp;investisseurs.
+translation=Nous croyons qu'il faut rester fidèle à ces principes. C'est pourquoi nous sommes 100% soutenus par nos utilisateurs, et non pas par des&nbsp;investisseurs.
 
 [pages.about.malleable]
 original=Malleable
@@ -1828,7 +1828,7 @@ translation=Malléable
 
 [pages.about.malleable_desc]
 original=We believe that tools should adapt to your way of thinking, not the other way around. That's why we design our tools to be highly customizable and extensible, so you can shape them to your unique&nbsp;needs.
-translation=Nous croyons que les outils doivent s'adapter à votre façon de penser, et non l'inverse. C'est pourquoi nous concevons nos outils pour être hautement personnalisables et extensibles, afin que vous puissiez les adapter à vos besoins&nbsp;uniques.
+translation=Nous croyons que les outils doivent s'adapter à votre façon de penser, et non l'inverse. C'est pourquoi nous concevons nos outils pour être hautement personnalisables et extensibles, afin que vous puissiez les adapter à vos besoins spécifiques.
 
 [pages.about.manifesto]
 original=Manifesto
@@ -1836,11 +1836,11 @@ translation=Manifeste
 
 [pages.about.manifesto_desc]
 original=Our guiding principles are set in&nbsp;stone.
-translation=Nos principes directeurs sont gravés dans la&nbsp;pierre.
+translation=Nos principes directeurs sont gravés dans la pierre.
 
 [pages.about.meta_desc]
 original=Our guiding principles are set in stone: yours, durable, private, malleable, independent.
-translation=Nos principes directeurs sont gravés dans la pierre : à vous, durable, privé, malléable, indépendant.
+translation=Nos principes directeurs sont gravés dans la pierre : à vous, durables, privés, malléables, indépendants.
 
 [pages.about.private]
 original=Private
@@ -2008,7 +2008,7 @@ translation=Montrez votre soutien
 
 [pages.enterprise.show_support_desc]
 original=Obsidian is 100% user-supported.<br>Join the movement. Support independent software.
-translation=Obsidian est 100 % soutenu par ses utilisateurs.<br>Rejoignez le mouvement. Soutenez un logiciel indépendant.
+translation=Obsidian est 100% soutenu par ses utilisateurs.<br>Rejoignez le mouvement. Soutenez un logiciel indépendant.
 
 [pages.enterprise.supporters_suffix]
 original=supporters
@@ -2020,7 +2020,7 @@ translation=Organisations soutenant Obsidian
 
 [pages.enterprise.supporting_orgs_desc]
 original=More than 10,000 organizations help keep Obsidian 100% user-supported. Join them with the purchase of a commercial license.
-translation=Plus de 10 000 organisations contribuent à maintenir Obsidian 100 % soutenu par ses utilisateurs. Rejoignez-les en achetant une licence commerciale.
+translation=Plus de 10 000 organisations contribuent à maintenir Obsidian 100% soutenu par ses utilisateurs. Rejoignez-les en achetant une licence commerciale.
 
 [pages.brand.contact_us_desc]
 original=The Obsidian name, logo and app icon are trademarks. You are free to customize the Obsidian app icon for your personal use. If you want to use Obsidian assets for commercial purposes, please <a href="mailto:support@obsidian.md">contact&nbsp;us</a>.
